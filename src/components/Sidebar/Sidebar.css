@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bacraund{
+ background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+  block-size:700px ;
+  width: 180px;
+
+}
+
+.profil-m{
+	background-color: #bcf4edc1;
+	
+}
+
+.dashwith{
+	width: 180px;
+}
+
+
+.h-full {
+	width: 190px;
+} 
+.bnz{
+	background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+
+}
+
+.text-white{
+	color: black;
+}
+
+.text-color{
+	color: black;
+}
